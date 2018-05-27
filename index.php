@@ -8,9 +8,7 @@ if (!$x) {
 
 echo "Введённое число: $x", "<br />";
 
-
-$first = 1;
-$second = 1;
+$first = $second = 1;
 
 while (true) {
     if ($first > $x) {
